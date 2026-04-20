@@ -2,7 +2,7 @@
 Welcome to Parmag3ddon OS (GNU/Linux 6.8.7 x86_64)
 
  * Documentation:  https://github.com/Parmag3dd0n
- * Management:     https://parmag3ddon.com
+ * Management:     https://parmag3dd0n.github.io
  * Support:        parmag3dd0n@proton.me
 You have new mail.
 Last login: Thu Apr 25 15:12:00 2024 from 89.39.226.198
